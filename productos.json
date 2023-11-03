@@ -1,0 +1,23 @@
+[
+    {
+      "clave": "001",
+      "descripcion": "Producto 1",
+      "precio": 16.50,
+      "clasificacion": "A",
+      "existencia": 25,
+      "existencia_minima": 10,
+      "existencia_maxima": 50
+    },
+
+    {
+        "clave": "002",
+        "descripcion": "Producto 2",
+        "precio": 18.00,
+        "clasificacion": "P",
+        "existencia": 30,
+        "existencia_minima": 10,
+        "existencia_maxima": 50
+      }
+
+  ]
+  
